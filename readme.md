@@ -1,3 +1,19 @@
+## Installing requirements
+
+Clone the project in your server root folder
+
+`git clone https://github.com/angava14/cognox`
+
+The requirements are in composer.json. Install them using composer:
+
+`composer install`
+
+Browse to
+
+https://localhost/aweber-subscribe-php
+
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
