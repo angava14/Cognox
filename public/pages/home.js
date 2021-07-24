@@ -14,6 +14,7 @@ $('document').ready(function () {
         contentType: 'application/json; charset=utf-8',
         success: function (result) {
           var div = $('#resultados'); 
+          $('#resultados').empty();
           var listitems = '';
           $.each(result, function(key, value){
             listitems += '<p value=' + value['cuenta'] + '>' + 'Cuenta: '+ value['cuenta'] +' - Saldo: ' + value['saldo'] + '</p>';
