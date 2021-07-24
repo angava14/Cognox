@@ -2,7 +2,10 @@
 
 Clone the project in your server root folder
 
-`git clone https://github.com/angava14/cognox`
+`git clone https://github.com/angava14/Cognox`
+
+Browse to the folder:
+`cd Cognox`
 
 The requirements are in composer.json. Install them using composer:
 
