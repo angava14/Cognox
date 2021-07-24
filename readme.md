@@ -10,7 +10,7 @@ The requirements are in composer.json. Install them using composer:
 
 Browse to
 
-https://localhost/aweber-subscribe-php
+https://localhost/Cognox/
 
 
 
